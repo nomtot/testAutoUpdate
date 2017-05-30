@@ -1,7 +1,7 @@
 {
   "version": "1.4.1",
   "auto-updater":{
-	"repo":"nomtot/testAutoUpdate/archive/master",
+	"repo":"nomtot/testAutoUpdate/blob/master/test",
 	"branch":"master"
   }
 }
