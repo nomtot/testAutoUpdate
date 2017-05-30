@@ -3,7 +3,7 @@
     var autoupdater = new AutoUpdater({
      pathToJson: '',
      autoupdate: false,
-     checkgit: true,
+     checkgit: false,
      jsonhost: 'https://raw.githubusercontent.com/nomtot/testAutoUpdate/master/package.json',
      contenthost: 'https://github.com/nomtot/testAutoUpdate',
      progressDebounce: 0,
