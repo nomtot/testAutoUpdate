@@ -1,29 +1,4 @@
 {
   "name": "test-update",
   "version": "1.4.1",
-  "description": "Automatically updates your client version when is outdated by the repository",
-  "main": "testAutoUpdate.js",
-  "scripts": {
-    "test": "console.log(\"Hello world\");"
-  },
-  "repository": {
-    "type": "git",
-    "url": "git+https://github.com/nomtot/testAutoUpdate.git"
-  },
-  "keywords": [
-    "update"
-  ],
-  "author": "nipon",
-  "license": "GPL-2.0",
-  "bugs": {
-    "url": "https://github.com/nomtot/testAutoUpdate/issues"
-  },
-  "homepage": "https://github.com/nomtot/testAutoUpdate#readme",
-  "auto-updater": {
-    "repo": "/nomtot/testAutoUpdate",
-    "branch": "master"
-  },
-  "dependencies": {
-    "auto-updater": "^1.0.2"
-  }
 }
