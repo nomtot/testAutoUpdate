@@ -20,7 +20,7 @@
   },
   "homepage": "https://github.com/nomtot/testAutoUpdate#readme",
   "auto-updater": {
-    "repo": "nomtot/testAutoUpdate",
+    "repo": "/nomtot/testAutoUpdate",
     "branch": "master"
   },
   "dependencies": {
