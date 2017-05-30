@@ -1,4 +1,8 @@
 {
   "name": "test-update",
   "version": "1.4.1",
+  "auto-updater":{
+	"repo":"nomtot/testAutoUpdate",
+	"branch":"master"
+  }
 }
