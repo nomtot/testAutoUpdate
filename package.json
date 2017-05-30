@@ -21,7 +21,7 @@
   "homepage": "https://github.com/nomtot/testAutoUpdate#readme",
   "auto-updater": {
     "repo": "nomtot/testAutoUpdate",
-    "branch": "v1.0.0"
+    "branch": "master"
   },
   "dependencies": {
     "auto-updater": "^1.0.2"
